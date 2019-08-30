@@ -1,0 +1,5 @@
+Installation and Configuration
+X Deploy and start an Elasticsearch cluster that satisfies a given set of requirements
+X Configure the nodes of a cluster to satisfy a given set of requirements
+X Secure a cluster using Elasticsearch Security
+X Define role-based access control using Elasticsearch Security

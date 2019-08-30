@@ -1,0 +1,7 @@
+Cluster Administration
+X Allocate the shards of an index to specific nodes based on a given set of requirements
+X Configure shard allocation awareness and forced awareness for an index
+X Diagnose shard issues and repair a cluster’s health
+X Backup and restore a cluster and/or specific indices
+X Configure a cluster for use with a hot/warm architecture
+X Configure a cluster for cross cluster search

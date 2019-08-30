@@ -1,0 +1,3 @@
+Aggregations
+X Write and execute metric and bucket aggregations
+X Write and execute aggregations that contain sub-aggregations

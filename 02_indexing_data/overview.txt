@@ -1,0 +1,8 @@
+Indexing Data
+X Define an index that satisfies a given set of requirements
+X Perform index, create, read, update, and delete operations on the documents of an index
+X Define and use index aliases
+X Define and use an index template for a given pattern that satisfies a given set of requirements
+X Define and use a dynamic template that satisfies a given set of requirements
+X Use the Reindex API and Update By Query API to reindex and/or update documents
+X Define and use an ingest pipeline that satisfies a given set of requirements, including the use of Painless to modify documents
